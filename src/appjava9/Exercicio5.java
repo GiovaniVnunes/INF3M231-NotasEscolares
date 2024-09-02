@@ -40,6 +40,7 @@ public class Exercicio5 {
         }
         System.out.println(".: SISTEMA DE NOTAS ECERRADO :.");
         System.out.println("Alterado no VS online");
+        System.out.println("12345");
         ler.close();
     }
 }
