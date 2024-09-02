@@ -39,5 +39,7 @@ public class Exercicio5 {
                     "\nEesultado final: " + alunos[i][1] + ".\n------");
         }
         System.out.println(".: SISTEMA DE NOTAS ECERRADO :.");
+        System.out.println("Alteradono VS online");
+        ler.close();
     }
 }
